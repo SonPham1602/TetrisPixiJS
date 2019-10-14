@@ -1,0 +1,23 @@
+{
+  "name": "TetrisPixiJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonPham1602/TetrisPixiJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonPham1602/TetrisPixiJS/issues"
+  },
+  "homepage": "https://github.com/SonPham1602/TetrisPixiJS#readme",
+  "dependencies": {
+    "pixi.js": "^4.5.1"
+  }
+}
